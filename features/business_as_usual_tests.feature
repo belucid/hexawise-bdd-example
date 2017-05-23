@@ -25,6 +25,6 @@ Scenario: Using lower case currency
   Then I get less
 
 Scenario: Using invalid currency
-  Given an exchange from CAD to FKP
+  Given an exchange from CAD to EUR
   When I exchange 100
   Then I get an invalid request
