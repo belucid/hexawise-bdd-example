@@ -20,6 +20,12 @@ To run the web service:
 ruby app.rb
 ```
 
+To try out the service:
+
+```console
+curl -i http://localhost:4567/exchange-rate/USD/100/AUD
+```
+
 To run the "business as usual" cucumber tests:
 
 ```console
