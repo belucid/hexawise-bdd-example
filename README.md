@@ -5,7 +5,7 @@ data-driven BDD combinatorial test plan designed in Hexawise.
 
 # Usage
 
-First install Ruby 2.3.3, presumably with [RVM](https://rvm.io/).
+First install Ruby 2.5.1, presumably with [RVM](https://rvm.io/).
 
 Then install the gems needed for this app:
 
