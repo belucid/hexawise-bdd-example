@@ -35,7 +35,7 @@ GEM
       domain_name (~> 0.5)
     http-form_data (2.1.1)
     http_parser.rb (0.6.0)
-    minitest (5.11.3)
+    minitest (5.13.0)
     multi_json (1.13.1)
     multi_test (0.1.2)
     mustermann (1.0.2)
@@ -60,7 +60,7 @@ DEPENDENCIES
   cucumber (~> 3.1.1)
   facets (~> 3.1.0)
   http (~> 3.3.0)
-  minitest (~> 5.11.3)
+  minitest (~> 5.13.0)
   sinatra (~> 2.0.3)
 
 BUNDLED WITH
