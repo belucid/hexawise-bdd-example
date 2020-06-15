@@ -40,7 +40,7 @@ GEM
     multi_test (0.1.2)
     mustermann (1.0.2)
     public_suffix (3.0.2)
-    rack (2.2.2)
+    rack (2.2.3)
     rack-protection (2.0.3)
       rack
     sinatra (2.0.3)
